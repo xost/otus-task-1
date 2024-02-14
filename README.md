@@ -39,9 +39,9 @@
 ##### Название: "*Мероприятие*"
 + Запросы:
     + детали мероприятия
-        + GET /api/v1/event/detail/?event_id=
+    GET /api/v1/event/detail/?event_id=
     + максимальное количество участников
-        + GET /api/v1/event/capacity/?event_id=
+    GET /api/v1/event/capacity/?event_id=
 + Команды
     + добавить мероприятие
     + изменить мероприятие
